@@ -1,4 +1,4 @@
 ﻿class Bank
-{
-    public int Money { get; set; }
+{ 
+    public int Balance { get; set; }
 }

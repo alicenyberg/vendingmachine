@@ -1,11 +1,5 @@
-﻿using System;
-namespace VendingMachine
+﻿class Inventory
 {
-	public class Inventory
-	{
-		public Inventory()
-		{
-		}
-	}
+    public string ItemName { get; set; }
+    public int Price { get; set; }
 }
-

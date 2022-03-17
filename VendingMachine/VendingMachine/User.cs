@@ -1,11 +1,5 @@
-﻿using System;
-namespace VendingMachine
+﻿class User
 {
-	public class User
-	{
-		public User()
-		{
-		}
-	}
+    public string Name { get; set; }
+    public int Money { get; set; }
 }
-
