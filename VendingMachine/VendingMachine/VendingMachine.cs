@@ -24,7 +24,9 @@
 
     public void AddPerson()
     {
+        Console.ForegroundColor = ConsoleColor.Magenta;
         Console.WriteLine("*** Welcome the best vending machine!!!! ***");
+        Console.ResetColor();
         Console.Write("Hi! What is your name? ");
 
         var name = "";
@@ -87,7 +89,10 @@
             }
             else if (answer == "No")
             {
-                Console.WriteLine($"Thank you for shopping at the best vending machine! You have {User.Money}:- left to spend in the machine.");
+
+                Console.ForegroundColor = ConsoleColor.Magenta;
+                Console.WriteLine($"Thank you for shopping at the best vending machine {User.Name}! You have {User.Money}:- left to spend in the machine.");
+                Console.ResetColor();
                 return;
             } else
             {
@@ -111,12 +116,13 @@
             {
                 User.Money -= item.Price;
                 Console.WriteLine($"You bought {item.ItemName}");
-   
                 return;
             }
             else if (answerToInt == item.Index && User.Money < item.Price)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("You can't afford this right know, pick something cheaper");
+                Console.ResetColor();
                 return;
 
             }
