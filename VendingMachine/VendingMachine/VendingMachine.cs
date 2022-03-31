@@ -87,7 +87,7 @@
             }
             else if (answer == "No")
             {
-                Console.WriteLine("Thank you for shopping at the best vending machine!");
+                Console.WriteLine($"Thank you for shopping at the best vending machine! You have {User.Money}:- left to spend in the machine.");
                 return;
             } else
             {
