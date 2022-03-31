@@ -13,3 +13,18 @@
 /Users/amandahulten/Library/Mobile Documents/com~apple~CloudDocs/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/ref/VendingMachine.dll
 /Users/amandahulten/Library/Mobile Documents/com~apple~CloudDocs/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.pdb
 /Users/amandahulten/Library/Mobile Documents/com~apple~CloudDocs/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.genruntimeconfig.cache
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine.deps.json
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine.runtimeconfig.json
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine.dll
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/bin/Debug/net6.0/ref/VendingMachine.dll
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine.pdb
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.csproj.AssemblyReference.cache
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.AssemblyInfoInputs.cache
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.AssemblyInfo.cs
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.csproj.CoreCompileInputs.cache
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.dll
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/ref/VendingMachine.dll
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.pdb
+/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.genruntimeconfig.cache

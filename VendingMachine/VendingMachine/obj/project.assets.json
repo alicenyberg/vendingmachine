@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/amandahulten/.nuget/packages/": {}
+    "/Users/agnesskonvall/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amandahulten/Library/Mobile Documents/com~apple~CloudDocs/vendingmachine/VendingMachine/VendingMachine/VendingMachine.csproj",
+      "projectUniqueName": "/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/VendingMachine.csproj",
       "projectName": "VendingMachine",
-      "projectPath": "/Users/amandahulten/Library/Mobile Documents/com~apple~CloudDocs/vendingmachine/VendingMachine/VendingMachine/VendingMachine.csproj",
-      "packagesPath": "/Users/amandahulten/.nuget/packages/",
-      "outputPath": "/Users/amandahulten/Library/Mobile Documents/com~apple~CloudDocs/vendingmachine/VendingMachine/VendingMachine/obj/",
+      "projectPath": "/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/VendingMachine.csproj",
+      "packagesPath": "/Users/agnesskonvall/.nuget/packages/",
+      "outputPath": "/Users/agnesskonvall/Documents/GitHub/vendingmachine/VendingMachine/VendingMachine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/amandahulten/.config/NuGet/NuGet.Config"
+        "/Users/agnesskonvall/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

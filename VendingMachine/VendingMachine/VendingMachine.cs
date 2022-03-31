@@ -79,7 +79,7 @@
             var answer = Console.ReadLine();
             if (answer == "Yes")
             {
-                
+                Console.WriteLine($"You have {User.Money}:- left.");
                 DisplayItems();
                 Console.WriteLine();
                 Console.ResetColor();
